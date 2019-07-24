@@ -1,0 +1,36 @@
+_repo: Suomi-Jaamerella_59915
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Voionmaa, Väinö
+    aliases:
+    - Wallin, Väinö
+    - Voionmaa, Kaarle Väinö
+    - Voionmaa, Vaino
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '45534'
+    url: http://www.gutenberg.org/2009/agents/45534
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Voionmaa
+    - https://en.wikipedia.org/wiki/V%C3%A4in%C3%B6_Voionmaa
+description: ''
+gutenberg_issued: '2019-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59915'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions'
+- !lcsh 'Arctic regions -- Discovery and exploration -- Finnish'
+- !lcc 'G'
+- GITenberg
+tableOfContents: Alkulause -- Jäämeri ja Jäämeren maat -- Muinaisaikain talous- ja
+  valtasuhteet Jäämerellä -- Uusi aika. Jäämeren rannikkojen valtiolliset jaot --
+  Suomen pyrkimys Itä-Varankiin -- Suomalaiset siirtolaiset Jäämerellä -- Maailmantalous
+  ja Jäämeren kysymys -- Muurmanin rata -- Suomen satama Jäämerellä -- Jäämeren kirjallisuutta.
+title: Suomi Jäämerellä
+url: http://www.gutenberg.org/ebooks/59915
